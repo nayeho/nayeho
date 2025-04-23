@@ -24,13 +24,6 @@
 
 </br>
 
-# 👀 Me 👀
-<a href="https://www.instagram.com/nayeh0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
- <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=nayeho@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-
-
-
-
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnayeho&count_bg=%2379C83D&title_bg=%23555555&icon=android.svg&icon_color=%23EDF0EA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=200&section=footer)
