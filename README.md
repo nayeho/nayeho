@@ -15,9 +15,9 @@
 
 ## LeetCode 🍭 
 
-|Badge|Progress|
-|------|---|
-|![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=nayeho)| ![Leetcode Stats](https://leetcard.jacoblin.cool/nayeho?ext=heatmap) |
+|Progress|
+|---|
+| ![Leetcode Stats](https://leetcard.jacoblin.cool/nayeho?ext=heatmap) |
 
 
 
